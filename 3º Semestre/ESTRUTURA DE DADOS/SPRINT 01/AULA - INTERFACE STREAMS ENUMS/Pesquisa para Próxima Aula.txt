@@ -1,0 +1,5 @@
+Pesquisa para Próxima Aula (27/02/2024)
+1 - O que são padrões de projeto
+2 - Quais as vantagens em utilizar padrões de projeto
+3 - Características do Padrão de Projeto Strategy e quando é indicado aplicá-lo
+Dica: https://refactoring.guru/pt-br/design-patterns

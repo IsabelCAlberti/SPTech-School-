@@ -1,0 +1,22 @@
+Atividade 02 - Avaliação Continuada 01
+Baseado nos temas sorteados na da Atividade 01 - Avaliação Continuada 01:
+
+Criar uma classe com 6 atributos (um atributo ID inteiro, pelo menos um atributo String, pelo menos um atributo Double, mais um atributo inteiro).
+Criar objetos dessa classe e preencher um vetor de tamanho no mínimo 8.
+Ordenar os dados do vetor, usando como critério um atributo diferente do ID.
+Implementar 2 algoritmos de ordenação diferentes baseado nesse critério e também a pesquisa binária baseada nesse critério.
+Caso queira se desafiar, implemente a ordenação em ordem decrescente, ao invés de crescente como foi feita em aula.
+
+Importante: testar os algoritmos, testar a pesquisa binária com valor que existe e valor que não existe.
+
+
+
+Dica: Se o atributo for String, utilize o método compareTo:
+
+str1.compareTo(str2)
+
+retorna um valor < 0 se str1 < str2
+
+retorna um valor = 0 se str1 = str2
+
+retorna um valor > 0 se str1 > str2
